@@ -1,0 +1,7 @@
+{
+  "name": "music-proxy-fly",
+  "dependencies": {
+    "express": "^4.18.0",
+    "cors": "^2.8.5"
+  }
+}
